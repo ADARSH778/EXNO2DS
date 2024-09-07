@@ -123,4 +123,4 @@ sns.pairplot(dt)
 ![image](https://github.com/user-attachments/assets/34900d81-0510-4bcf-9452-4f1906fd4696)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus the data analysis has been implemented succesfully.
